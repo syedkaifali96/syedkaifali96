@@ -1,41 +1,49 @@
-# Syed Kaif Ali
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Syed Kaif Ali — Student Web Developer. Web ideas, brought to life." />
+</p>
 
-### Student web developer · Karachi, Pakistan
+<p align="center">
+  <a href="https://syedkaifali96.github.io/kaif-web-demo/"><strong>Portfolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/syed-kaif-ali-10b667430/"><strong>LinkedIn ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:syedkaifali96@gmail.com"><strong>Email ↗</strong></a>
+</p>
 
-I build responsive websites and browser projects with **HTML, CSS and JavaScript**. I’m learning through personal and educational work, with a focus on clear layouts, mobile usability and useful interactions.
+## A little about me
 
-[**Explore my portfolio →**](https://syedkaifali96.github.io/kaif-web-demo/) · [LinkedIn](https://www.linkedin.com/in/syed-kaif-ali-10b667430/) · [Email](mailto:syedkaifali96@gmail.com)
+I’m a student web developer in **Karachi, Pakistan**, building responsive websites and browser projects. My focus is clear layouts, mobile usability and useful interactions.
 
----
+I use AI tools to assist development, then review and refine the code. My work here includes **personal and educational projects**, and I keep learning through practice and feedback.
 
-## Selected work
+<p>
+  <img src="./assets/toolbox.svg" width="100%" alt="My toolbox: HTML, CSS, JavaScript, Git and GitHub" />
+</p>
 
-### [Personal Web Portfolio](https://github.com/syedkaifali96/kaif-web-demo)
-A responsive four-page website with project previews, service information and an email contact form. Built with HTML, CSS and JavaScript and published on GitHub Pages.
+## Projects to explore
 
-[Live website →](https://syedkaifali96.github.io/kaif-web-demo/)
+<a href="https://github.com/syedkaifali96/kaif-web-demo"><img src="./assets/project-portfolio.svg" width="100%" alt="Personal Web Portfolio — responsive four-page website with project previews and an email contact form" /></a>
 
-### [UniNest Pakistan](https://github.com/syedkaifali96/UninestPakistan)
-A team educational project exploring student hostel listings and roommate discovery in Pakistan.
+[**Open the website ↗**](https://syedkaifali96.github.io/kaif-web-demo/) · [Source code](https://github.com/syedkaifali96/kaif-web-demo)
 
-[Source code →](https://github.com/syedkaifali96/UninestPakistan)
+<a href="https://github.com/syedkaifali96/UninestPakistan"><img src="./assets/project-uninest.svg" width="100%" alt="UniNest Pakistan — team educational project for student hostel listings and roommate discovery" /></a>
 
-### [CareSwitch](https://github.com/syedkaifali96/careswitch)
-A personal student prototype exploring phrase buttons, multilingual speech output and optional head-control interactions in the browser.
+[**Explore the source ↗**](https://github.com/syedkaifali96/UninestPakistan)
 
-[Live prototype →](https://syedkaifali96.github.io/careswitch/) · [Source code](https://github.com/syedkaifali96/careswitch)
+<a href="https://github.com/syedkaifali96/careswitch"><img src="./assets/project-careswitch.svg" width="100%" alt="CareSwitch — personal student browser prototype with phrase buttons, multilingual speech and optional head-control interactions" /></a>
 
-## How I work
+[**Try the prototype ↗**](https://syedkaifali96.github.io/careswitch/) · [Source code](https://github.com/syedkaifali96/careswitch)
 
-- Use AI tools to assist implementation, then review and refine the code.
-- Check navigation, links, form interactions and mobile layouts.
-- Practise HTML, CSS and JavaScript through projects and feedback.
-- Keep project scope and progress clear.
+<sub>Project cards are illustrated previews. UniNest is a team educational project; CareSwitch is a student prototype.</sub>
 
-## Discuss a small website project
+## How I approach a project
 
-I’m interested in landing pages, simple business websites and front-end content or layout updates.
+<img src="./assets/workflow.svg" width="100%" alt="Understand the scope, build with AI assistance, review code and test links and mobile layout" />
 
-Send your idea, required pages, content, deadline and estimated budget through my [portfolio contact form](https://syedkaifali96.github.io/kaif-web-demo/contact.html) or [LinkedIn](https://www.linkedin.com/in/syed-kaif-ali-10b667430/) so we can discuss the scope.
+## Have a small website idea?
 
-**Languages:** English and Urdu.
+I’m interested in **landing pages**, **simple business websites** and **front-end content or layout updates**.
+
+Send your idea, required pages, content, deadline and estimated budget through my [portfolio contact form](https://syedkaifali96.github.io/kaif-web-demo/contact.html) or [LinkedIn](https://www.linkedin.com/in/syed-kaif-ali-10b667430/), and we can discuss the scope.
+
+**English · Urdu**
