@@ -17,8 +17,16 @@ I’m a student web developer in **Karachi, Pakistan**, building responsive webs
 I use AI tools to assist development, then review and refine the code. My work here includes **personal and educational projects**, and I keep learning through practice and feedback.
 
 <p>
-  <img src="./assets/toolbox.svg" width="100%" alt="My toolbox: HTML, CSS, JavaScript, Git and GitHub" />
+  <img src="./assets/toolbox.svg" width="100%" alt="My skills: front-end, back-end and databases, mobile apps, AI, Git and GitHub" />
 </p>
+
+## Skills
+
+- **Front-End:** HTML, CSS, JavaScript, UI/UX Design, Website Designing
+- **Back-End & Database:** PHP, SQL, Database Management
+- **Mobile:** Mobile App Development
+- **AI:** AI Development & Integration
+- **Tools:** Git, GitHub
 
 ## Projects to explore
 
