@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Syed Kaif Ali — Student Web Developer. Web ideas, brought to life." />
+  <img src="./assets/profile-header.svg" width="100%" alt="Syed Kaif Ali — Student Developer. Web, Mobile and AI. Ideas into working projects." />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ## A little about me
 
-I’m a student developer in **Karachi, Pakistan**, exploring web development, mobile apps and AI through projects. I care about clear layouts, useful interactions and learning by building.
+I’m **Syed Kaif Ali**, a student developer based in **Karachi, Pakistan**. I’m interested in web development, mobile apps and AI, and I learn by building and improving practical projects.
 
-I use AI tools to assist development, then review and refine the code. My work here includes **personal and educational projects**, and I keep learning through practice and feedback.
+My work spans interface design, backend APIs, databases, mobile experiments and AI integration. I use AI tools to assist implementation, then review the code, test the interactions and improve through feedback. My work here includes **personal and educational projects**.
 
 <p>
   <img src="./assets/toolbox.svg" width="100%" alt="My skills: front-end, back-end and databases, mobile apps, AI, Git and GitHub" />
@@ -24,10 +24,10 @@ I use AI tools to assist development, then review and refine the code. My work h
 
 <img src="./assets/workflow.svg" width="100%" alt="Understand the scope, build with AI assistance, review code and test links and mobile layout" />
 
-## Have a small website idea?
+## Have a project idea?
 
-I’m interested in **landing pages**, **simple business websites** and **front-end content or layout updates**.
+I’m interested in **websites and landing pages**, **UI/UX improvements**, **mobile app projects** and **AI integrations**.
 
-Send your idea, required pages, content, deadline and estimated budget through my [portfolio contact form](https://syedkaifali96.github.io/kaif-web-demo/contact.html) or [LinkedIn](https://www.linkedin.com/in/syed-kaif-ali-10b667430/), and we can discuss the scope.
+Share your goal, required features, content, deadline and estimated budget through my [portfolio contact form](https://syedkaifali96.github.io/kaif-web-demo/contact.html) or [LinkedIn](https://www.linkedin.com/in/syed-kaif-ali-10b667430/), and we can discuss the scope.
 
 **English · Urdu**
