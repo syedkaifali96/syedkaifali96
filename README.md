@@ -1,49 +1,99 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Syed Kaif Ali — Student Web Developer. Web ideas, brought to life." />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://syedkaifali96.github.io/kaif-web-demo/"><strong>Portfolio ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/syed-kaif-ali-10b667430/"><strong>LinkedIn ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:syedkaifali96@gmail.com"><strong>Email ↗</strong></a>
-</p>
+<img src="assets/portrait-dots.png" width="280" alt="Syed Kaif Ali in a colored dot-matrix portrait" />
 
-## A little about me
+<br>
 
-I’m a student web developer in **Karachi, Pakistan**, building responsive websites and browser projects. My focus is clear layouts, mobile usability and useful interactions.
+<img src="assets/typing-intro.svg" width="700" alt="Animated introduction: Syed Kaif Ali — Student Web Developer — HTML, CSS and JavaScript" />
 
-I use AI tools to assist development, then review and refine the code. My work here includes **personal and educational projects**, and I keep learning through practice and feedback.
+<br>
 
-<p>
-  <img src="./assets/toolbox.svg" width="100%" alt="My toolbox: HTML, CSS, JavaScript, Git and GitHub" />
-</p>
+<a href="https://syedkaifali96.github.io/kaif-web-demo/"><img src="assets/badge-portfolio.svg" width="140" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/syed-kaif-ali-10b667430/"><img src="assets/badge-linkedin.svg" width="140" alt="LinkedIn" /></a>
+<a href="mailto:syedkaifali96@gmail.com"><img src="assets/badge-email.svg" width="140" alt="Email" /></a>
 
-## Projects to explore
+<br><br>
 
-<a href="https://github.com/syedkaifali96/kaif-web-demo"><img src="./assets/project-portfolio.svg" width="100%" alt="Personal Web Portfolio — responsive four-page website with project previews and an email contact form" /></a>
+<sub>RESPONSIVE WEBSITES · BROWSER PROJECTS · KARACHI, PAKISTAN</sub>
 
-[**Open the website ↗**](https://syedkaifali96.github.io/kaif-web-demo/) · [Source code](https://github.com/syedkaifali96/kaif-web-demo)
+</div>
 
-<a href="https://github.com/syedkaifali96/UninestPakistan"><img src="./assets/project-uninest.svg" width="100%" alt="UniNest Pakistan — team educational project for student hostel listings and roommate discovery" /></a>
+---
 
-[**Explore the source ↗**](https://github.com/syedkaifali96/UninestPakistan)
+## `~/` whoami
 
-<a href="https://github.com/syedkaifali96/careswitch"><img src="./assets/project-careswitch.svg" width="100%" alt="CareSwitch — personal student browser prototype with phrase buttons, multilingual speech and optional head-control interactions" /></a>
+```console
+student@karachi:~$ cat about.txt
+```
 
-[**Try the prototype ↗**](https://syedkaifali96.github.io/careswitch/) · [Source code](https://github.com/syedkaifali96/careswitch)
+I’m **Kaif**, a student web developer turning ideas into responsive websites with **HTML, CSS and JavaScript**.
 
-<sub>Project cards are illustrated previews. UniNest is a team educational project; CareSwitch is a student prototype.</sub>
+- **Building:** my [personal portfolio](https://syedkaifali96.github.io/kaif-web-demo/) and small browser projects.
+- **Learning:** mobile layouts, accessible interactions and clearer JavaScript.
+- **Workflow:** AI-assisted implementation, followed by code review and checks.
+- **Project experience:** personal and educational work, including a team project.
+- **Languages:** English and Urdu.
 
-## How I approach a project
+<div align="center">
 
-<img src="./assets/workflow.svg" width="100%" alt="Understand the scope, build with AI assistance, review code and test links and mobile layout" />
+## `~/` toolbox
 
-## Have a small website idea?
+<img src="assets/toolbox-v3.svg" width="660" alt="HTML, CSS, JavaScript, Git and GitHub" />
 
-I’m interested in **landing pages**, **simple business websites** and **front-end content or layout updates**.
+</div>
+
+---
+
+<div align="center">
+
+## `~/` project pulse
+
+<img src="assets/project-stats.svg" width="900" alt="Snapshot of selected public projects: three projects, ten main-branch commits, two live demos" />
+
+<br><br>
+
+<img src="assets/project-languages.svg" width="900" alt="GitHub primary language labels: JavaScript for two selected projects and HTML for one" />
+
+## `~/` activity in motion
+
+<img src="assets/project-isocalendar.svg" width="900" alt="Isometric calendar of main-branch commit activity in selected public projects" />
+
+<br><br>
+
+<img src="assets/project-snake.svg" width="900" alt="Snake-style animation crossing a grid of actual selected public project activity" />
+
+<sub>Public project snapshot: **14 October 2026**. Calendar and totals cover the three projects below, all authors on their default branches. Language counts use GitHub’s primary language labels; they are not proficiency scores.</sub>
+
+</div>
+
+---
+
+## `~/` selected work
+
+<a href="https://github.com/syedkaifali96/kaif-web-demo"><img src="assets/project-portfolio.svg" width="100%" alt="Personal Web Portfolio — responsive four-page website" /></a>
+
+[**Live website ↗**](https://syedkaifali96.github.io/kaif-web-demo/) · [Source](https://github.com/syedkaifali96/kaif-web-demo) · `HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/syedkaifali96/UninestPakistan"><img src="assets/project-uninest.svg" width="100%" alt="UniNest Pakistan — educational team project for student hostels and roommate discovery" /></a>
+
+[**Source ↗**](https://github.com/syedkaifali96/UninestPakistan) · Educational team project
+
+<a href="https://github.com/syedkaifali96/careswitch"><img src="assets/project-careswitch.svg" width="100%" alt="CareSwitch — student browser prototype with phrase buttons and multilingual speech" /></a>
+
+[**Live prototype ↗**](https://syedkaifali96.github.io/careswitch/) · [Source](https://github.com/syedkaifali96/careswitch) · Personal student prototype
+
+<sub>Project cards are illustrated previews. CareSwitch is an educational prototype.</sub>
+
+---
+
+## `~/` let's build
+
+Interested in a **landing page**, **simple business website**, or **front-end update**?
 
 Send your idea, required pages, content, deadline and estimated budget through my [portfolio contact form](https://syedkaifali96.github.io/kaif-web-demo/contact.html) or [LinkedIn](https://www.linkedin.com/in/syed-kaif-ali-10b667430/), and we can discuss the scope.
 
-**English · Urdu**
+<div align="center">
+
+`learn → build → review → improve`
+
+</div>
