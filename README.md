@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg?v=web-mobile-ai" width="100%" alt="Syed Kaif Ali — Student Developer. Web, Mobile and AI. Ideas into working projects." />
+  <img src="./assets/profile-header-web-mobile-ai.svg" width="100%" alt="Syed Kaif Ali — Student Developer. Web, Mobile and AI. Ideas into working projects." />
 </p>
 
 <p align="center">
